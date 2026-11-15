@@ -1,2 +1,2 @@
 # JustBoot
-Checkm8 exploitation &amp; iBSS sending script for TWRP
+Checkm8 exploitation &amp; iBSS sending script for TWRP to boot your downgraded iDevice
